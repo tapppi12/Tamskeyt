@@ -22,11 +22,5 @@
         "key": "2007",
         "expirydate": "15-06-2029",
         "Allowoffline": false
-    },
-    {
-        "device_id": "cfdcb454b758fa75",
-        "key": "2026",
-        "expirydate": "15-06-2029",
-        "Allowoffline": false
     }
 ]
